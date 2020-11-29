@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 
 
-Pada tugas LAB 6, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list dengan sistem library root yang nantinya akan menghasilkan output seperti ini.
+Pada tugas LAB 6, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list dengan sistem library root yang nantinya akan seperti ini.
 
 ## Langkah - Langkah
 
