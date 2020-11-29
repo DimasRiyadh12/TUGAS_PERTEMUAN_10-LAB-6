@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 Pada tugas LAB 6, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list dengan sistem library root yang nantinya akan menghasilkan output seperti ini.
 
-## Langkah Pertama
+## Langkah - Langkah
 
 * Disini saya membuat file library root nya terlebih dahulu dengan nama folder yaitu data:
 
@@ -118,7 +118,7 @@ Fungsi nya ini untuk menjalankan file library root nya yaitu dari folder bernama
 
 ![Foto Lat1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_10-LAB-6/blob/main/Pertemuan%2010%20LAB%206%20-%20SS/9.png) <br>
 
-Oke cukup sekian tugas dari saya jika ada kesalahan saya mohon maaf sebesar besar nantinya
+Oke cukup sekian tugas dari saya jika ada kesalahan saya mohon maaf sebesar besar.
 
 # TERIMA KASIH
 ___________________________________________________________________________________________________
